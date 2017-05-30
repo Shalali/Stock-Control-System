@@ -1,7 +1,7 @@
 # Stock-Control-System
-Connecting to the Database
+*CONNECTING TO THE DATABASE*
 
-Firstly, ensure that the database location is correct by right clicking on JavaDB and going to properties (my database is inside my CourworkV2 folder) under the 'Services' tab in Netbeans
+Firstly, ensure that the database location is correct by right clicking on JavaDB and going to properties (my database is inside my CourworkV2 folder called 'ShStockDB') under the 'Services' tab in Netbeans
 
 Form a new connection with the database using the network driver by right clicking on databases
 
