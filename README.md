@@ -1,5 +1,5 @@
 # Stock-Control-System
-*CONNECTING TO THE DATABASE*
+*CONNECTING TO THE DATABASE USING NETBEANS*
 
 Firstly, ensure that the database location is correct by right clicking on JavaDB and going to properties (my database is inside my CourworkV2 folder called 'ShStockDB') under the 'Services' tab in Netbeans
 
